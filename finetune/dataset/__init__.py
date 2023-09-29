@@ -1,0 +1,1 @@
+from finetune.dataset.itembuilder import CPMBeeImageTextBuilder
